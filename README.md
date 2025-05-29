@@ -27,3 +27,10 @@ Identified top predictive factors: Genetic Predisposition, Family History, Envir
 
 💡 Why This Project?
 Type 1 Diabetes is a complex disease influenced by a combination of genetic, environmental, and autoimmune factors. Early prediction is crucial for preventive strategies and timely intervention. This project demonstrates how machine learning can assist in medical research and support decision-making.
+
+├── data/                   # Dataset files
+├── notebooks/              # Jupyter Notebooks for each experiment
+├── src/                    # Scripts for preprocessing, modeling, and visualization
+├── outputs/                # Model outputs, charts, and reports
+└── README.md               # Project overview
+
